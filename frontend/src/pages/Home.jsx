@@ -98,8 +98,8 @@ const Home = () => {
               <p><strong>Full-stack projects</strong> — strengthening my resume with end-to-end applications, backend architecture included.</p>
             </StaggerItem>
             <StaggerItem as="li">
-              <span className="now-tag">Targeting</span>
-              <p><strong>Google STEP internship</strong> — that's the goal I'm building everything else around right now.</p>
+              <span className="now-tag">Opportunities</span>
+              <p><strong>Actively seeking internships</strong> — looking for software engineering roles to apply my skills in real-world environments.</p>
             </StaggerItem>
           </StaggerContainer>
         </div>

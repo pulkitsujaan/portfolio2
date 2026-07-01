@@ -39,7 +39,7 @@ const Footer = () => {
               </div>
               <div className="footer-col">
                 <h4>Contact</h4>
-                <a href="mailto:pulkitsujaan.work@gmail.com">pulkitsujaan.work@gmail.com</a>
+                <a href="mailto:hello@pulkitsujaan.dev">hello@pulkitsujaan.dev</a>
                 <Link to="/contact">Send a message</Link>
               </div>
             </div>

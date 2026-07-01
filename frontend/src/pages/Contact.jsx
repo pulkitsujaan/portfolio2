@@ -101,7 +101,7 @@ const Contact = () => {
 
             <Reveal delay={0.25} direction="up" className="contact-side">
               <h3>Direct Contact</h3>
-              <p>You can also reach me directly at <a href="mailto:pulkitsujaan.work@gmail.com" style={{ color: 'var(--accent)' }}>pulkitsujaan.work@gmail.com</a></p>
+              <p>You can also reach me directly at <a href="mailto:hello@pulkitsujaan.dev" style={{ color: 'var(--accent)' }}>hello@pulkitsujaan.dev</a></p>
               <h3>Connect</h3>
               <div className="socials">
                 <motion.a className="social-btn" href="https://github.com/pulkitsujaan" target="_blank" rel="noreferrer noopener" aria-label="GitHub" whileHover={{ y: -2 }}>
